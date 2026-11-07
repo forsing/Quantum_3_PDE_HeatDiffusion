@@ -20,9 +20,9 @@ np.random.seed(39)
 
 
 FILES = (
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89_loto_2980.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89_loto_plus_1736.csv"),
+    Path("/data/loto7_4716_k89.csv"),
+    Path("/data/loto7_4716_k89_loto_2980.csv"),
+    Path("/data/loto7_4716_k89_loto_plus_1736.csv"),
 )
 
 
@@ -549,13 +549,13 @@ Log legalne mase: -5.058816782685961
 
 
 loto7_4716_k89.csv
-NEXT: 1 11 17 25 29 32 39
+NEXT: 1 x 17 y 29 z 39
 
 loto7_4716_k89_loto_2980.csv
-NEXT: 1 14 17 18 26 33 39
+NEXT: 1 x 17 y 26 z 39
 
 loto7_4716_k89_loto_plus_1736.csv
-NEXT: 2 15 17 21 24 26 39
+NEXT: 2 x 17 y 24 z 39
 """
 
 
